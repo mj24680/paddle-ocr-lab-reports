@@ -1,4 +1,4 @@
-# Generic Lab Report OCR — Beginner Project
+# Lab Report OCR 
 
 This project teaches a simple two-part workflow:
 
